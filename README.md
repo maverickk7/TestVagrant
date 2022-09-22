@@ -1,2 +1,2 @@
 # TestVagrant
-Excecute Movie.xml file.
+Excecute src/Movie.xml file
